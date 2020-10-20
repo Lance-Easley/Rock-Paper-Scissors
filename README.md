@@ -1,6 +1,6 @@
 # Side Project
 This is my repository for my "Rock Paper Scissors" project, 
-my second project that I made during Base Camp Coding Academy.
+the second project that I made during Base Camp Coding Academy.
 
 # Rock-Paper-Scissors
 This project was my first time using the `random` module. 
